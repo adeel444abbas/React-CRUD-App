@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adeel1",
+      "email": "adeel444abbas@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed",
+      "email": "ahmed1122@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Zain",
+      "email": "zain122@gmail.com"
+    },
+    {
+      "name": "Adeel Abbas",
+      "email": "adeel444abbas@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "new",
+      "email": "new@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "new2",
+      "email": "new2@new.com",
+      "id": 7
+    }
+  ]
+}
